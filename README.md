@@ -1,4 +1,4 @@
-### Hi! i'm Francisco Correia
+### Hi! I'm Francisco Correia
 
 <div>
   <a href="https://github.com/franciscocorreia383">
